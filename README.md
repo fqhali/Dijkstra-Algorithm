@@ -1,12 +1,10 @@
 # Implementasi Kode Program Food Delivery (Dijkstra)
 
-Berikut adalah seluruh dokumentasi yang mencakup analisis studi kasus berdasarkan kode yang Anda berikan, visualisasi graf, serta gambaran singkat mekanismenya—semuanya disajikan murni dalam format **Markdown**.
-
 ---
 
 ## 📌 1. Studi Kasus: Optimasi Rute Pengantaran Makanan
 
-Program di atas mensimulasikan sistem pencarian rute tercepat untuk layanan *food delivery* (pengantaran makanan). Pengemudi harus membawa makanan dari **Restoran** menuju lokasi **Pelanggan** melewati beberapa titik wilayah perantara (A, B, C, D, E) dengan total **7 titik lokasi (0 sampai 6)**.
+Program akan mensimulasikan sistem pencarian rute tercepat untuk layanan *food delivery* (pengantaran makanan). Pengemudi harus membawa makanan dari **Restoran** menuju lokasi **Pelanggan** melewati beberapa titik wilayah perantara (A, B, C, D, E) dengan total **7 titik lokasi (0 sampai 6)**.
 
 ### Titik Lokasi (Nodes)
 * `0` : Restoran (Titik Awal / *Start*)
